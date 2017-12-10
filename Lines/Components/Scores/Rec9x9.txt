@@ -1,0 +1,8 @@
+Name : Score
+ASKII : 92
+Nick : 46
+Test : 40
+123 : 54
+Lol : 55
+444 : 79
+999 : 126
